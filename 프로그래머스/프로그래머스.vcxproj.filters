@@ -39,5 +39,8 @@
     <ClCompile Include="붕대 감기.cpp">
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
+    <ClCompile Include="이웃한 칸.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
