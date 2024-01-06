@@ -16,23 +16,11 @@
     <Filter Include="소스 파일\LV1">
       <UniqueIdentifier>{dddbb1aa-0a61-4f33-bed4-a7218ca7ed3c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LV2">
+      <UniqueIdentifier>{788f6161-7a69-4e07-b57b-ed37a4f59a77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="완주하지 못한 선수_정렬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="완주하지 못한 선수_해시.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전화번호 목록_정렬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전화번호 목록_해시.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="의상.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="_t.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -40,6 +28,24 @@
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
     <ClCompile Include="이웃한 칸.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
+    <ClCompile Include="완주하지 못한 선수_정렬.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
+    <ClCompile Include="완주하지 못한 선수_해시.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호 목록_정렬.cpp">
+      <Filter>소스 파일\LV2</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호 목록_해시.cpp">
+      <Filter>소스 파일\LV2</Filter>
+    </ClCompile>
+    <ClCompile Include="의상.cpp">
+      <Filter>소스 파일\LV2</Filter>
+    </ClCompile>
+    <ClCompile Include="카드 뭉치.cpp">
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
   </ItemGroup>
