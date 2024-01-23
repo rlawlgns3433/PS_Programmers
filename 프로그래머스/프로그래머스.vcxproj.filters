@@ -51,5 +51,8 @@
     <ClCompile Include="달리기 경주.cpp">
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
+    <ClCompile Include="데이터 분석.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
