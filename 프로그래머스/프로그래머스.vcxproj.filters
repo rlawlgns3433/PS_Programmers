@@ -75,10 +75,10 @@
     <ClCompile Include="소수 찾기.cpp">
       <Filter>소스 파일\LV2</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="모의고사.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
+    <ClCompile Include="신고 결과 받기.cpp">
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
   </ItemGroup>
