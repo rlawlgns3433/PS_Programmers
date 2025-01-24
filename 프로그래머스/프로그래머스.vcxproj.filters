@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\LV2">
       <UniqueIdentifier>{788f6161-7a69-4e07-b57b-ed37a4f59a77}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LV3">
+      <UniqueIdentifier>{d6c855de-07bc-4f44-b4f5-69fde5c625d6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="_t.cpp">
@@ -82,7 +85,10 @@
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
     <ClCompile Include="타겟 넘버.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\LV2</Filter>
+    </ClCompile>
+    <ClCompile Include="단어변환.cpp">
+      <Filter>소스 파일\LV3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
