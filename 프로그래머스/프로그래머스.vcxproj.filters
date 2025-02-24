@@ -96,5 +96,8 @@
     <ClCompile Include="유연근무제.cpp">
       <Filter>소스 파일\LV1</Filter>
     </ClCompile>
+    <ClCompile Include="크기가 작은 부분 문자열.cpp">
+      <Filter>소스 파일\LV1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
